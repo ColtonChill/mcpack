@@ -1,5 +1,9 @@
 ### version: 16.5
 
+*note, if you don't have your own tweeks,*
+
+Add `VanillaTweeks_crafting` & `VanillaTweeks_extras`(unziped & unpacked) to the world Databack. Add `Vanilla_resource` to your resorcepack folder.
+
 ## ModList / DependencyMap
 
 ### World:
@@ -59,6 +63,7 @@
 * SlimyChunks
 * potionBundles
 * easy magic
+* XP Tome
 
 ### Items:
 * artifacts -> curios
@@ -78,6 +83,7 @@
 
 ### GamePlay:
 * Origins -> architectureAPI,CalelusAPI,ClothConfigAPI
+* sakisil, genesis -> Origins
 * Waystones
 * bountiful -> kotlinForForge
 * GuardVillagers
